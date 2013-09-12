@@ -8,6 +8,7 @@ import java.sql.SQLException;
 import java.sql.Statement;
 
 public class Conexion {
+	//coment
 
 	Connection myConnection;
 	String URL = "jdbc:postgresql://localhost:5432/inventario";
